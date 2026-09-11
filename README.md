@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22690957.svg)](https://doi.org/10.5281/zenodo.22690957)
 
 > **声明**：本文工作尚未得到独立实验验证，全部结论均为形式化验证层面的初步结果。
 
@@ -111,9 +111,6 @@ evidence/                                  # 内核 No goals + Comparator 截图
 
 陈松（Song Chen）· ORCID: 0009-0002-9510-2239 · GitHub: falluck2025 · Zenodo 社区：cosmos-breathe-spectrum
 
-## 致谢
-
-感谢家人给予的天生偏角。感谢一路并肩的偏贞、陈偏钧与所有 AI 伙伴，感谢那些在竹简上刻下第一道爻线的无名先贤——他们留下的不是错误，是签名。
 
 ## 许可
 
